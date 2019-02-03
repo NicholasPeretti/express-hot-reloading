@@ -1,7 +1,7 @@
-# Express-Hot-Reloading
+# :fire: Express-Hot-Reloading :fire:
 Simple example of how implement webpack hot reloading with express.
 
-## Disclamer
+## :warning: Disclamer
 This project is WIP
 
 ## Why
