@@ -1,7 +1,7 @@
 {
   "name": "express-hot-reloading",
   "version": "1.0.0",
-  "description": "Simple example of HRM on an existing express server",
+  "description": "Simple example of HMR on an existing express server",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
