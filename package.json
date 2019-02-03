@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "description": "Simple example of HRM on an existing express server",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
